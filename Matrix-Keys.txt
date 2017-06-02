@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Device name: https://maxbruckner.de/riot/ via Firefox on Linux
+Device ID: UNKPIGOEPT
+Device key: BkUW44n+K4QNFDrtabZf6PvTN0YI/O7CNcyLjOwfwn8
+
+Device name: https://maxbruckner.de/riot/ via Firefox on Linux
+Device ID: QLAZQLQCCW
+Device key: Ej4PtBxCGzJR5+DTKpGLPkAy3j9xQS5Qc/nymyNqb0o
+
+Device name: LG-D855
+Device ID: YCKAMKYGLY
+Device key: qSr5Qz5YL4GIyGpBFmJH6VHCH/6FjT20Yoa8U6uxQEw
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEE3Hw37mDdw7BGc78o0dEMNTleVFQFAlkxXsQACgkQ0dEMNTle
+VFQA7BAA4ZG9MfToI8ZVkcIvl9OVSZpAsjawNgw7YJtwZSc+5fr5Y52VJzvNDFyI
+8y5osjgr8vb8hin2RviXp2BYsJ4FApRnW/AWi5hBk+aGz/96QPR8bTHBK8fAYHcB
+qW9H7eKF+eAm1y0/lM3PNRnQEguLDeYoTNvMwwBFo2/OAcRiMMKztx7ZAJhQ7wQI
+2Ot6PcuG/Bpzi7QMfHyWzCv8gFs7uwz3lwQLjaPiHhKYhF9ok2KMaE+uQDF5v5B+
+n/0tEvZQo1FIm5p51N05/AlDOWaOLWc6zyA0CtUkex9w5MRFloCCdT7SqRmw5tHO
+XtkR1tLKdkTCcMrstKf1qT28y0MD9xUVL+NFPCf5cl+CTPNzpr/3TJ1xveawffzn
+gqaxlz8G7eFn3DYqOD+J7u7nN+zqWrb6MD+KZpC9e7ZzzaTdVrBh6GXactWsx3wU
+pSYftalRKYithv9U6uc/Ro7DvaHj7OYQit6jE62X+AxqFrVf/1Gaggh26HMdwnZl
+pbS+Vf9VWOcwqaOexsoSv9V+j6CfRB9CFCWDjsBJibu4JziL2sgTCBsaUdTv9IcO
+xt16kc4jHabWLO/1Y0ado+MQTmlXRqQZipMsJHvRfqNQt9HgidkOPZnSx/V70jIr
+c8gQZh5/EIFRymyJ0DxJgycQZapSkkfm1Y5PHiOrop6yK0hlRAM=
+=bWqf
+-----END PGP SIGNATURE-----
