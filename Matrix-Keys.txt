@@ -1,6 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
 Device name: OnePlus 6
 Device ID: SKVXSODKHS
 Device key: kzqY6/Ok9gpsnXX5K1hUoy9dyHVsArWfuHZGJlWMaEM
@@ -8,23 +5,3 @@ Device key: kzqY6/Ok9gpsnXX5K1hUoy9dyHVsArWfuHZGJlWMaEM
 Device name: i5 Riot
 Device ID: PVLDRQGQBB
 Device key: fxsU Py2+ 8Irk qFp9 bbPS Oft5 oa2f auG3 XvUw iSg8 oFg
-
-Device name: Macbook Riot
-Device ID: PAZMDUWBLJ
-Device key: ERBl jSIN OtFZ 4qOe cy2v 1kzh ERI9 eAnu gWpC jCOU XS4
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCAAdFiEE3Hw37mDdw7BGc78o0dEMNTleVFQFAlw3qTkACgkQ0dEMNTle
-VFReZA/9E2DYxhvhGYFB48QQ4YypiVAM6QWUe+KdTSeg+EaExgKiY3OjkpzhZYla
-9/rx3Krh/RJ3WfjVvrBPSYb2fLHFu2I07fdOk9a6b/tOXDx1tVgzBdaBXaOIXpsm
-V18Iv2jcpecL54rZ5fJfxR/rMwq4TY3Gg3NP9tK5JRZ6012u2ic37NS4K6C5X9ao
-/1pPUIFQbMytsLk/oxhEQUVpKX2uCJyHTZPvwUahXTU75m/GDwOaFeUBb+xJi1rn
-2WLjmFMZZ9gSoqfZDc2tMN3CcwYu2WWw/ILwZzG/f6bGAK6FGk0GmcCyUyTESKjq
-b3M/mR85sbt2jKUZ4WdWRE4+C9fIr9dNI8L52MyStCJ1tcF06jB8FF8ITx6AvsDx
-nYHv+i3eLE7VaJKV0JdpK+h1Yxj4pEd4Ph+zrUAvgetHy5ii3/iv6ID9hGWBOuK0
-IKETYGt04om/AmXGyLKOD9FKFCaZY/q4+45rNy7RUS4jNuopzBn9fesh8WWpA2NO
-m1JWXw7+Mfj5dH6QJj4kHnwPiAWVXSC5r3s2RykijL7FLELqg09iEpnPg3OvJ9Le
-0t7nmubc1jvcGlrT2O7qkkzlLjzu21Rxchmy7GjS0CtapeW8nIzdOH8szXYX4YGS
-YkB2qHxUcZ/fIXfwkfmq9IR7N9HiK0aIsuqruwzlx9/lk3i1tjI=
-=buRE
------END PGP SIGNATURE-----
