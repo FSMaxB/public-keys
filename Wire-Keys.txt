@@ -1,11 +1,11 @@
 OnePlus ONEPLUS A6003
-ID: aaa80ccdc187d150
-9aed28fa236ee9b390f4ad652ee6d9c57cac403bbdb762f2aca94d0693e46bca
-
-Firefox (i5)
-ID: 373b85b75c7ed83e
-92e90d78109441bbd67377149b6da4e5ee535cc40afb61dddbdf3db767ad24fc
+ID: 69272ca38ef3b5cb
+ba1673677e0a200a9d2ebd746df7a1493aea0472b2fc456aeabcb45cf48c545d
 
 Firefox (T480)
 ID: ed045bfa4786f376
 c0ac9cd4a9242c56db70663fd72902dbf7300263baf32547e20a47faa331b54a
+
+Firefox (threadripper)
+ID: 81ceb3c5e90ec49e
+6e3d7700e4576185c6e4962af1b1d199f6df87e0d1dbce91733ed43ddb9f3daf

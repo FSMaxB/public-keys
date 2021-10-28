@@ -1,3 +1,2 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIEvVSQdqDBYYa6MB4wF4vDrSp1giW0zaLyx1qKhFw6t max@max-homeserver-arch
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOsFDHOnGspC9xBUfhn6q3DT4sjzED5MW0RjLTH/b1Gr max@max-t480-arch
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAeYSeQtl/vkQfvuWghNEjV0gQrHX+RtuB8yJpXEhdz6 max@max-threadripper-arch
