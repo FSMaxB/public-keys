@@ -1,6 +1,6 @@
 Device name: OnePlus 6
-Device ID: TSSKEESQKJ
-Device key: 7+xbGJy3oSF2m73+3SW2/k5LOnsspvb89igqG2lrwU0
+Device ID: DJGCKDVDMD
+Device key: n8S8wBIpmnrNp3M2KSB+16QwDZpEMAoP+E/oLenv3/8
 
 Device name: T480 Arch
 Device ID: CHZTSYDTDI
